@@ -1,7 +1,5 @@
 # Target-Aware Spatio-Temporal Reasoning via Answering Questions in Dynamic Audio-Visual Scenarios
-PyTorch implementation of our Findings of EMNLP2023 paper: 
-
-Target-Aware Spatio-Temporal Reasoning via Answering Questions in Dynamic Audio-Visual Scenarios
+PyTorch implementation of our Findings of EMNLP2023 [paper](https://arxiv.org/abs/2305.12397).
 
 Our code is coming soon!
 ## Audio-Visual Question Answering (AVQA) Task
