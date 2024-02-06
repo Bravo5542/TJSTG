@@ -31,6 +31,8 @@ python net_tjstg/main.py --mode test
 
 We improve our target-aware process to obtain a more robust performance. The experimental results based on the updated code are as follows:
 
+![image](/net_tjstg/figs/updated_results.png)
+
 ## Citation
 
 ```ruby
