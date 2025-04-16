@@ -1,6 +1,6 @@
 # Target-Aware Spatio-Temporal Reasoning via Answering Questions in Dynamic Audio-Visual Scenarios
 
-**Yuanyuan Jiang, Jianqin Yin**  
+**Yuanyuan Jiang (jyy55lesley@gmail.com), Jianqin Yin**  
 **Beijing University of Posts and Telecommunications**
 
 [\[paper\]](https://aclanthology.org/2023.findings-emnlp.630/)
